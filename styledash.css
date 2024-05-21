@@ -1,0 +1,26 @@
+.on{
+    font-family:sans-serif;
+    background-color: rgba(red, green, blue, alpha);
+    font-weight: 700;
+    font-size: 40px;
+    color:#445;
+}
+
+img{
+    width: 45px;
+    height: 45px;
+    margin-top: 10px;
+}
+.head,.on{
+    display: inline-block;
+
+}
+::placeholder{
+    text-align: center;
+}
+input{
+    margin-left: 580px;
+    padding: 15px;
+    width: 720px;
+    margin-top: 20px;
+}

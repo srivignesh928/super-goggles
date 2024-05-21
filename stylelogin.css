@@ -1,0 +1,91 @@
+.one{
+    font-family:sans-serif;
+    background-color: rgba(red, green, blue, alpha);
+    font-weight: 700;
+    font-size: 40px;
+    color:#445;
+}
+
+img{
+    width: 45px;
+    height: 45px;
+    margin-top: 10px;
+}
+.header,.one{
+    display: inline-block;
+
+}
+
+
+.main{
+    
+    background-color:white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 610px;
+    padding:20px 30px ;
+    margin-top: 134px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+h3{
+    color:#474747;
+    font-family: archivo, sans-serif;
+    margin-top: 35px;
+    text-align: center;
+    margin-top: 26px;
+
+}
+.loginlogo{
+    margin-left: 237px;
+    margin-top: 34px;
+    margin-bottom: 15px;
+    size: 30px 30px;
+}
+.six{
+    margin-bottom: 17px;
+    margin-top: 48px;
+    width: 420px;
+    height: 42px ;
+    margin-left: 35px;
+}
+.nine{
+    margin-bottom: 40px;
+    margin-left: 35px;
+    width:420px ;
+    height:42px ;
+}
+.loogin{
+    background-color:#0074D9;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 220px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+    
+    
+    
+}
+.loogin:hover{
+    background-color:#0056b3;
+}
+.main{
+    width: 512px;
+    height: 576px;
+}
+.new{
+    font-size: smaller;
+    margin-top: 37px;
+    margin-left: 5px;
+    
+}
+.new:hover{
+    color: lightgray;
+    cursor: pointer;
+}
